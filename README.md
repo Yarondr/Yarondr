@@ -1,5 +1,5 @@
 # 💫 About Me:
-💻 I'm a 18 years old passionate self-taught developer<br>🤖 I'm a _FIRST_ alum (has been at _FIRST_ for 10 years now)<br>🔭 I’m currently working on Java and TypeScript projects<br>🌱 I’m looking to learn Flutter and ML<br>💬 Ask me about anything you want, I'm always happy to help!<br>📫 Feel free to reach me out through Discord: @yarond<br>⚡ Fun fact, I _really_ like sushi!<br>😀 Pronouns: He/Him
+💻 I'm a 19 years old passionate self-taught developer<br>🤖 I'm a _FIRST_ alum (has been at _FIRST_ for 10 years now)<br>🔭 I’m currently working on Java and TypeScript projects<br>🌱 I’m looking to learn Flutter and ML<br>💬 Ask me about anything you want, I'm always happy to help!<br>📫 Feel free to reach me out through Discord: @yarond<br>⚡ Fun fact, I _really_ like sushi!<br>😀 Pronouns: He/Him
 
 
 ## 🌐 Socials:
